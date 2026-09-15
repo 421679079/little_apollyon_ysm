@@ -1,0 +1,7 @@
+// Defaults run after roaming data is restored, before animation updates.
+// Preserve saved choices, including an explicitly unchecked riding option.
+v.roaming.apollyon_scale = ((v.roaming.apollyon_scale ?? 0) < 0.1) ? 1 : math.clamp(v.roaming.apollyon_scale, 0.1, 10);
+v.roaming.apollyon_ride_pig_flight = v.roaming.apollyon_ride_pig_flight ?? 1;
+v.roaming.apollyon_hide_hat = v.roaming.apollyon_hide_hat ?? 0;
+v.roaming.apollyon_hide_halo = v.roaming.apollyon_hide_halo ?? v.roaming.apollyon_hide_hat;
+v.roaming.apollyon_pig = v.roaming.apollyon_pig ?? 0;

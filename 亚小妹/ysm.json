@@ -1,0 +1,182 @@
+{
+  "spec": 2,
+  "metadata": {
+    "name": "亚小妹",
+    "tips": "亚小妹可爱捏",
+    "license": {
+      "type": "GPL v3",
+      "desc": "亚小妹可爱捏"
+    },
+    "authors": [
+      {
+        "name": "東葉月",
+        "role": "作者",
+        "avatar": "avatar/dyy.png",
+        "comment": "真是大猪见小猪，哼哼哼哼哼"
+      },
+      {
+        "name": "4911",
+        "role": "原作者",
+        "avatar": "avatar/hm.png",
+        "comment": "喵喵喵喵喵~"
+      }
+    ],
+    "link": {
+      "home": "1",
+      "donate": "1"
+    }
+  },
+  "properties": {
+    "height_scale": 0.63,
+    "width_scale": 0.63,
+    "extra_animation": {
+      "extra0": "#extra_config",
+      "apollyon_throne": "王座坐姿",
+      "#pig_page": "亚小猪动画",
+      "#common_page": "通用动画"
+    },
+    "extra_animation_buttons": [
+      {
+        "id": "extra_config",
+        "name": "外观设置",
+        "config_forms": [
+          {
+            "type": "checkbox",
+            "title": "没礼帽形态",
+            "description": "隐藏帽子。",
+            "value": "v.roaming.apollyon_hide_hat"
+          },
+          {
+            "type": "checkbox",
+            "title": "盐井虾形态",
+            "description": "隐藏后方的大眼睛神环。",
+            "value": "v.roaming.apollyon_hide_halo"
+          },
+          {
+            "type": "checkbox",
+            "title": "猪猪形态",
+            "description": "变身为亚小猪。",
+            "value": "v.roaming.apollyon_pig"
+          },
+          {
+            "type": "range",
+            "title": "模型缩放",
+            "description": "调整模型大小。",
+            "value": "v.roaming.apollyon_scale",
+            "step": 0.1,
+            "min": 0.1,
+            "max": 10
+          },
+          {
+            "type": "checkbox",
+            "title": "骑猪飞行",
+            "description": "飞行时骑在亚小猪背上。",
+            "value": "v.roaming.apollyon_ride_pig_flight"
+          }
+        ]
+      }
+    ],
+    "preview_animation": "gui",
+    "disable_preview_rotation": true,
+    "gui_no_lighting": false,
+    "gui_foreground": "textures/gui/foreground.png",
+    "gui_background": "textures/gui/background.png",
+    "default_texture": "combined",
+    "render_layers_first": false,
+    "free": true,
+    "all_cutout": true,
+    "extra_animation_classify": [
+      {
+        "id": "common_page",
+        "extra_animation": {
+          "extra1": "挥手",
+          "extra2": "拍手",
+          "extra3": "YES",
+          "extra4": "NO",
+          "extra5": "耶",
+          "extra6": "摆手",
+          "extra7": "跳舞",
+          "#return": "返回"
+        }
+      },
+      {
+        "id": "pig_page",
+        "extra_animation": {
+          "pig_death": "猪死亡",
+          "pig_feed": "猪打滚",
+          "#return": "返回"
+        }
+      }
+    ]
+  },
+  "files": {
+    "player": {
+      "model": {
+        "main": "models/main.json",
+        "arm": "models/arm.json"
+      },
+      "animation": {
+        "main": "animations/main.animation.json",
+        "arm": "animations/arm.animation.json",
+        "extra": "animations/extra.animation.json",
+        "tac": "animations/tac.animation.json",
+        "carryon": "animations/carryon.animation.json",
+        "parcool": "animations/parcool.animation.json",
+        "swem": "animations/swem.animation.json",
+        "slashblade": "animations/slashblade.animation.json",
+        "tlm": "animations/tlm.animation.json",
+        "fp_arm": "animations/fp.arm.animation.json"
+      },
+      "animation_controllers": [
+        "controller/main.animation_controllers.json"
+      ],
+      "texture": [
+        {
+          "uv": "textures/combined.png"
+        }
+      ]
+    },
+    "projectiles": [
+      {
+        "match": [
+          "minecraft:arrow"
+        ],
+        "model": "models/arrow.json",
+        "animation": "animations/arrow.animation.json",
+        "texture": {
+          "uv": "textures/arrow.png"
+        }
+      },
+      {
+        "match": [
+          "minecraft:fishing_bobber"
+        ],
+        "model": "models/fishing_bobber.json",
+        "texture": {
+          "uv": "textures/fishing_bobber.png"
+        }
+      }
+    ],
+    "vehicles": [
+      {
+        "match": [
+          "minecraft:boat"
+        ],
+        "model": "models/boat.json",
+        "animation": "animations/boat.animation.json",
+        "texture": {
+          "uv": "textures/boat.png"
+        }
+      },
+      {
+        "match": [
+          "minecraft:minecart"
+        ],
+        "model": "models/minecart.json",
+        "texture": {
+          "uv": "textures/minecart.png"
+        }
+      }
+    ]
+  }
+}
