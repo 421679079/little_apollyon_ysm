@@ -5,3 +5,9 @@ v.roaming.apollyon_ride_pig_flight = v.roaming.apollyon_ride_pig_flight ?? 1;
 v.roaming.apollyon_hide_hat = v.roaming.apollyon_hide_hat ?? 0;
 v.roaming.apollyon_hide_halo = v.roaming.apollyon_hide_halo ?? v.roaming.apollyon_hide_hat;
 v.roaming.apollyon_pig = v.roaming.apollyon_pig ?? 0;
+
+v.roaming.apollyon_variant = math.clamp(math.floor(v.roaming.apollyon_variant ?? 0), 0, 12);
+
+// Radio index 0 = pig riding, 1 = moon flight. Migrate the saved checkbox choice.
+v.roaming.apollyon_flight_mode = math.clamp(math.floor(v.roaming.apollyon_flight_mode ?? ((v.roaming.apollyon_ride_pig_flight ?? 1) ? 0 : 1)), 0, 1);
+v.roaming.apollyon_ride_pig_flight = (v.roaming.apollyon_flight_mode == 0) ? 1 : 0;

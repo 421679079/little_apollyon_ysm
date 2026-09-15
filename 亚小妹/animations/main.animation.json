@@ -102355,6 +102355,2754 @@
         },
         "pig_apollyon_hat_mesh": {
           "scale": "(((v.roaming.apollyon_ride_pig_flight ?? 1) && !(v.roaming.apollyon_pig ?? 0)) && (ctrl.fly || ctrl.elytra_fly) && !ctrl.death && !ctrl.sleep && !ctrl.riptide) ? 0 : (1 - (v.roaming.apollyon_hide_hat ?? 0))"
+        },
+        "ysmGlowav_opt_0": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_1": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_2": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_3": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_4": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_5": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_6": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_7": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_8": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_9": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_10": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_11": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "ysmGlowav_opt_12": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_13": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_14": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_15": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_16": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_17": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_18": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_19": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_20": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_21": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_22": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_23": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_24": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_25": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_26": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_27": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_28": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_29": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_30": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_31": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_32": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_33": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_34": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_35": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_36": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_37": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_38": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_39": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_40": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_41": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_42": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_43": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_44": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_45": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_46": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_47": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_48": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_49": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_50": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_51": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_52": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_53": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_54": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_55": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_56": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_57": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_58": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_59": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_60": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_61": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_62": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_63": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_64": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_65": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_66": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_67": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_68": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_69": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_70": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_71": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_72": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_73": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_74": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_75": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_76": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_77": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_78": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_79": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "ysmGlowav_opt_80": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "ysmGlowav_opt_81": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_82": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "ysmGlowav_opt_83": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "ysmGlowav_opt_84": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_85": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_86": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_87": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_88": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_89": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_90": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_91": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_92": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_93": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_94": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_95": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_96": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_97": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_98": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_99": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_100": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_101": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_102": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_103": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_104": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_105": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_106": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_107": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_108": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_109": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_110": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_111": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_112": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_113": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_114": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_115": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_116": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_117": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_118": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_119": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_120": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_121": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_122": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_123": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_124": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_125": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_126": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_127": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_128": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_129": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_130": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_131": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_132": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_133": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_134": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_135": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_136": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_137": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_138": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_139": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_140": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_141": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_142": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_143": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_144": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_145": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_146": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_147": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_148": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_149": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_150": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_151": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_152": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_153": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_154": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_155": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_156": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_157": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_158": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_159": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_160": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_161": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_162": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_163": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_164": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_165": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_166": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_167": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_168": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_169": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_170": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_171": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_172": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_173": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_174": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_175": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_176": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_177": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_178": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_179": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_180": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_181": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_182": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_183": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_184": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_185": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_186": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_187": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_188": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_189": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_190": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_191": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_192": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_193": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_194": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_195": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_196": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_197": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_198": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_199": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_200": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_201": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_202": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_203": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
+        },
+        "av_opt_204": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1)) ? 1 : 0"
+        },
+        "av_opt_205": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1)) ? 1 : 0"
+        },
+        "av_opt_206": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1)) ? 1 : 0"
+        },
+        "av_opt_207": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1)) ? 1 : 0"
+        },
+        "av_opt_208": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1)) ? 1 : 0"
+        },
+        "av_opt_209": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1)) ? 1 : 0"
+        },
+        "av_opt_210": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1)) ? 1 : 0"
+        },
+        "av_opt_211": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1)) ? 1 : 0"
+        },
+        "av_opt_212": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1)) ? 1 : 0"
+        },
+        "av_opt_213": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1)) ? 1 : 0"
+        },
+        "av_opt_214": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1)) ? 1 : 0"
+        },
+        "av_opt_215": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1)) ? 1 : 0"
+        },
+        "av_opt_216": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1)) ? 1 : 0"
+        },
+        "av_opt_217": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1)) ? 1 : 0"
+        },
+        "av_opt_218": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 2 || (v.roaming.apollyon_variant ?? 0) == 3 || (v.roaming.apollyon_variant ?? 0) == 4 || (v.roaming.apollyon_variant ?? 0) == 5 || (v.roaming.apollyon_variant ?? 0) == 6 || (v.roaming.apollyon_variant ?? 0) == 7 || (v.roaming.apollyon_variant ?? 0) == 8 || (v.roaming.apollyon_variant ?? 0) == 9 || (v.roaming.apollyon_variant ?? 0) == 10 || (v.roaming.apollyon_variant ?? 0) == 11 || (v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_219": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 2 || (v.roaming.apollyon_variant ?? 0) == 3 || (v.roaming.apollyon_variant ?? 0) == 4 || (v.roaming.apollyon_variant ?? 0) == 5 || (v.roaming.apollyon_variant ?? 0) == 6 || (v.roaming.apollyon_variant ?? 0) == 7 || (v.roaming.apollyon_variant ?? 0) == 8 || (v.roaming.apollyon_variant ?? 0) == 9 || (v.roaming.apollyon_variant ?? 0) == 10 || (v.roaming.apollyon_variant ?? 0) == 11 || (v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_220": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_221": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_222": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_223": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 10 || (v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_224": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 10 || (v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_225": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1)) ? 1 : 0"
+        },
+        "ysmGlowav_opt_226": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 2 || (v.roaming.apollyon_variant ?? 0) == 3 || (v.roaming.apollyon_variant ?? 0) == 4 || (v.roaming.apollyon_variant ?? 0) == 5 || (v.roaming.apollyon_variant ?? 0) == 6 || (v.roaming.apollyon_variant ?? 0) == 7 || (v.roaming.apollyon_variant ?? 0) == 8 || (v.roaming.apollyon_variant ?? 0) == 9 || (v.roaming.apollyon_variant ?? 0) == 10 || (v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "ysmGlowav_opt_227": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 2 || (v.roaming.apollyon_variant ?? 0) == 3 || (v.roaming.apollyon_variant ?? 0) == 4 || (v.roaming.apollyon_variant ?? 0) == 5 || (v.roaming.apollyon_variant ?? 0) == 6 || (v.roaming.apollyon_variant ?? 0) == 7 || (v.roaming.apollyon_variant ?? 0) == 8 || (v.roaming.apollyon_variant ?? 0) == 9 || (v.roaming.apollyon_variant ?? 0) == 10 || (v.roaming.apollyon_variant ?? 0) == 11 || (v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "ysmGlowav_opt_228": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 2 || (v.roaming.apollyon_variant ?? 0) == 3 || (v.roaming.apollyon_variant ?? 0) == 4 || (v.roaming.apollyon_variant ?? 0) == 5 || (v.roaming.apollyon_variant ?? 0) == 6 || (v.roaming.apollyon_variant ?? 0) == 7 || (v.roaming.apollyon_variant ?? 0) == 8 || (v.roaming.apollyon_variant ?? 0) == 9 || (v.roaming.apollyon_variant ?? 0) == 10 || (v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_229": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1)) ? 1 : 0"
+        },
+        "ysmGlowav_opt_230": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 2 || (v.roaming.apollyon_variant ?? 0) == 3 || (v.roaming.apollyon_variant ?? 0) == 4 || (v.roaming.apollyon_variant ?? 0) == 5 || (v.roaming.apollyon_variant ?? 0) == 6 || (v.roaming.apollyon_variant ?? 0) == 7 || (v.roaming.apollyon_variant ?? 0) == 8 || (v.roaming.apollyon_variant ?? 0) == 9 || (v.roaming.apollyon_variant ?? 0) == 10 || (v.roaming.apollyon_variant ?? 0) == 11 || (v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "ysmGlowav_opt_231": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 2 || (v.roaming.apollyon_variant ?? 0) == 3 || (v.roaming.apollyon_variant ?? 0) == 4 || (v.roaming.apollyon_variant ?? 0) == 5 || (v.roaming.apollyon_variant ?? 0) == 6 || (v.roaming.apollyon_variant ?? 0) == 7 || (v.roaming.apollyon_variant ?? 0) == 8 || (v.roaming.apollyon_variant ?? 0) == 9 || (v.roaming.apollyon_variant ?? 0) == 10 || (v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_232": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1)) ? 1 : 0"
+        },
+        "av_opt_233": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_234": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_235": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_236": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_237": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_238": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_239": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_240": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_241": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_242": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_243": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_244": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_245": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_246": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_247": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_248": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_249": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_250": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_251": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_252": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_253": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_254": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_255": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_256": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_257": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_258": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_259": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_260": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_261": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_262": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_263": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_264": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_265": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_266": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_267": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_268": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_269": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_270": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_271": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_272": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_273": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_274": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_275": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_276": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_277": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_278": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_279": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_280": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_281": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_282": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_283": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_284": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_285": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_286": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_287": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_288": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_289": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_290": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_291": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_292": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_293": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "ysmGlowav_opt_294": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1) && !(v.roaming.apollyon_hide_halo ?? 0)) ? 1 : 0"
+        },
+        "av_opt_295": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 2 || (v.roaming.apollyon_variant ?? 0) == 3 || (v.roaming.apollyon_variant ?? 0) == 4 || (v.roaming.apollyon_variant ?? 0) == 5 || (v.roaming.apollyon_variant ?? 0) == 8 || (v.roaming.apollyon_variant ?? 0) == 9 || (v.roaming.apollyon_variant ?? 0) == 10 || (v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_296": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 4 || (v.roaming.apollyon_variant ?? 0) == 5 || (v.roaming.apollyon_variant ?? 0) == 8 || (v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_297": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 4 || (v.roaming.apollyon_variant ?? 0) == 5 || (v.roaming.apollyon_variant ?? 0) == 9 || (v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_298": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 2 || (v.roaming.apollyon_variant ?? 0) == 3 || (v.roaming.apollyon_variant ?? 0) == 4 || (v.roaming.apollyon_variant ?? 0) == 5 || (v.roaming.apollyon_variant ?? 0) == 8 || (v.roaming.apollyon_variant ?? 0) == 9 || (v.roaming.apollyon_variant ?? 0) == 10 || (v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_299": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 4 || (v.roaming.apollyon_variant ?? 0) == 5 || (v.roaming.apollyon_variant ?? 0) == 8 || (v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_300": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 4 || (v.roaming.apollyon_variant ?? 0) == 5 || (v.roaming.apollyon_variant ?? 0) == 9 || (v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_301": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_302": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_303": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_304": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_305": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_306": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_307": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_308": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_309": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_310": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_311": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_312": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_313": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_314": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2 || (v.roaming.apollyon_variant ?? 0) == 3 || (v.roaming.apollyon_variant ?? 0) == 4 || (v.roaming.apollyon_variant ?? 0) == 5 || (v.roaming.apollyon_variant ?? 0) == 6 || (v.roaming.apollyon_variant ?? 0) == 7 || (v.roaming.apollyon_variant ?? 0) == 8 || (v.roaming.apollyon_variant ?? 0) == 9 || (v.roaming.apollyon_variant ?? 0) == 10 || (v.roaming.apollyon_variant ?? 0) == 11 || (v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_315": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2 || (v.roaming.apollyon_variant ?? 0) == 3 || (v.roaming.apollyon_variant ?? 0) == 4 || (v.roaming.apollyon_variant ?? 0) == 5 || (v.roaming.apollyon_variant ?? 0) == 6 || (v.roaming.apollyon_variant ?? 0) == 7 || (v.roaming.apollyon_variant ?? 0) == 8 || (v.roaming.apollyon_variant ?? 0) == 9 || (v.roaming.apollyon_variant ?? 0) == 10 || (v.roaming.apollyon_variant ?? 0) == 11 || (v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_316": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_317": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_318": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_319": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_320": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_321": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_322": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_323": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_324": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_325": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_326": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_327": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_328": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_329": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_330": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_331": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_332": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_333": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_334": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_335": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_336": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_337": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_338": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_339": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "ysmGlowav_opt_340": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2) && !(v.roaming.apollyon_hide_halo ?? 0)) ? 1 : 0"
+        },
+        "av_opt_341": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_342": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_343": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2 || (v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_344": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_345": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2 || (v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_346": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_347": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_348": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_349": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_350": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_351": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_352": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_353": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_354": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_355": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_356": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_357": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_358": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_359": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_360": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_361": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_362": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_363": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_364": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_365": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_366": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_367": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_368": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_369": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_370": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_371": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_372": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_373": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_374": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_375": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_376": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_377": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_378": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_379": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_380": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_381": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_382": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_383": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "ysmGlowav_opt_384": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3) && !(v.roaming.apollyon_hide_halo ?? 0)) ? 1 : 0"
+        },
+        "av_opt_385": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_386": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_387": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_388": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 4)) ? 1 : 0"
+        },
+        "av_opt_389": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 4)) ? 1 : 0"
+        },
+        "av_opt_390": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 4)) ? 1 : 0"
+        },
+        "av_opt_391": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 4)) ? 1 : 0"
+        },
+        "av_opt_392": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 4)) ? 1 : 0"
+        },
+        "av_opt_393": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 4)) ? 1 : 0"
+        },
+        "av_opt_394": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 4)) ? 1 : 0"
+        },
+        "av_opt_395": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 4) && !(v.roaming.apollyon_hide_hat ?? 0)) ? 1 : 0"
+        },
+        "av_opt_396": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 4) && !(v.roaming.apollyon_hide_hat ?? 0)) ? 1 : 0"
+        },
+        "av_opt_397": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 4)) ? 1 : 0"
+        },
+        "av_opt_398": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 4)) ? 1 : 0"
+        },
+        "av_opt_399": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 4)) ? 1 : 0"
+        },
+        "av_opt_400": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 4)) ? 1 : 0"
+        },
+        "av_opt_401": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 4)) ? 1 : 0"
+        },
+        "av_opt_402": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 4)) ? 1 : 0"
+        },
+        "av_opt_403": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 4)) ? 1 : 0"
+        },
+        "av_opt_404": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 4)) ? 1 : 0"
+        },
+        "av_opt_405": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 4)) ? 1 : 0"
+        },
+        "ysmGlowav_opt_406": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 4) && !(v.roaming.apollyon_hide_halo ?? 0)) ? 1 : 0"
+        },
+        "av_opt_407": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 4) && !(v.roaming.apollyon_hide_hat ?? 0)) ? 1 : 0"
+        },
+        "av_opt_408": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_409": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_410": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_411": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_412": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_413": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_414": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_415": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_416": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_417": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_418": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_419": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_420": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_421": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_422": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_423": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_424": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_425": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_426": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_427": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_428": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_429": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_430": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_431": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_432": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_433": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_434": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_435": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_436": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_437": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_438": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_439": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_440": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_441": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_442": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_443": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_444": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_445": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_446": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_447": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_448": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_449": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_450": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_451": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_452": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_453": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_454": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_455": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_456": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_457": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_458": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_459": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_460": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_461": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_462": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_463": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_464": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_465": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_466": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_467": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_468": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_469": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_470": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_471": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_472": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_473": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_474": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_475": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_476": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_477": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_478": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_479": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_480": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_481": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_482": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_483": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_484": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_485": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_486": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "av_opt_487": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5)) ? 1 : 0"
+        },
+        "ysmGlowav_opt_488": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 5) && !(v.roaming.apollyon_hide_halo ?? 0)) ? 1 : 0"
+        },
+        "av_opt_489": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6 || (v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_490": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_491": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_492": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_493": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_494": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_495": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_496": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_497": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_498": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_499": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_500": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_501": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_502": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_503": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_504": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_505": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_506": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_507": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_508": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_509": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_510": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_511": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_512": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_513": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_514": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_515": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_516": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_517": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_518": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_519": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_520": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_521": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_522": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_523": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_524": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_525": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_526": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_527": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_528": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_529": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "ysmGlowav_opt_530": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6) && !(v.roaming.apollyon_hide_halo ?? 0)) ? 1 : 0"
+        },
+        "av_opt_531": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_532": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_533": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_534": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_535": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_536": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_537": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_538": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_539": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_540": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_541": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_542": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_543": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_544": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_545": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_546": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_547": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_548": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_549": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_550": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_551": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_552": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_553": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 7) && !(v.roaming.apollyon_hide_hat ?? 0)) ? 1 : 0"
+        },
+        "ysmGlowav_opt_554": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 7) && !(v.roaming.apollyon_hide_halo ?? 0)) ? 1 : 0"
+        },
+        "av_opt_555": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_556": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_557": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_558": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_559": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_560": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 8)) ? 1 : 0"
+        },
+        "av_opt_561": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 8)) ? 1 : 0"
+        },
+        "av_opt_562": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 8)) ? 1 : 0"
+        },
+        "av_opt_563": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 8)) ? 1 : 0"
+        },
+        "av_opt_564": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 8)) ? 1 : 0"
+        },
+        "av_opt_565": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 8)) ? 1 : 0"
+        },
+        "av_opt_566": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 8)) ? 1 : 0"
+        },
+        "av_opt_567": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 8)) ? 1 : 0"
+        },
+        "av_opt_568": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 8)) ? 1 : 0"
+        },
+        "av_opt_569": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 8)) ? 1 : 0"
+        },
+        "av_opt_570": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 8)) ? 1 : 0"
+        },
+        "av_opt_571": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 8)) ? 1 : 0"
+        },
+        "av_opt_572": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 8)) ? 1 : 0"
+        },
+        "av_opt_573": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 8)) ? 1 : 0"
+        },
+        "av_opt_574": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 8)) ? 1 : 0"
+        },
+        "av_opt_575": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 8)) ? 1 : 0"
+        },
+        "ysmGlowav_opt_576": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 8) && !(v.roaming.apollyon_hide_halo ?? 0)) ? 1 : 0"
+        },
+        "av_opt_577": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 8)) ? 1 : 0"
+        },
+        "av_opt_578": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 8)) ? 1 : 0"
+        },
+        "av_opt_579": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_580": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_581": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_582": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_583": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_584": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_585": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_586": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_587": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_588": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_589": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_590": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_591": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_592": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_593": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_594": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_595": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_596": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_597": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_598": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_599": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_600": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_601": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_602": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_603": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_604": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_605": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_606": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_607": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_608": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_609": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_610": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_611": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_612": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_613": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_614": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_615": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_616": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_617": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_618": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_619": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_620": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_621": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_622": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_623": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_624": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_625": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_626": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_627": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_628": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_629": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_630": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_631": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_632": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_633": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_634": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_635": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_636": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_637": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_638": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_639": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_640": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_641": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_642": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_643": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_644": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_645": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_646": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_647": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_648": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_649": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_650": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "ysmGlowav_opt_651": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9) && !(v.roaming.apollyon_hide_halo ?? 0)) ? 1 : 0"
+        },
+        "av_opt_652": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_653": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_654": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_655": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_656": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_657": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_658": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_659": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_660": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_661": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_662": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_663": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_664": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_665": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_666": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_667": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_668": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_669": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_670": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_671": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_672": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_673": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_674": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_675": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_676": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_677": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_678": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_679": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_680": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_681": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_682": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_683": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_684": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_685": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_686": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_687": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_688": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_689": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_690": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_691": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_692": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_693": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_694": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_695": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_696": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_697": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_698": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_699": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_700": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_701": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_702": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_703": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_704": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_705": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_706": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_707": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_708": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_709": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_710": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_711": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_712": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_713": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_714": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_715": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_716": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_717": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_718": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_719": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_720": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_721": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_722": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_723": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_724": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_725": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_726": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_727": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_728": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_729": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_730": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_731": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_732": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_733": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "ysmGlowav_opt_734": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10) && !(v.roaming.apollyon_hide_halo ?? 0)) ? 1 : 0"
+        },
+        "av_opt_735": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_736": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_737": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_738": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_739": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_740": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_741": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_742": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_743": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_744": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_745": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_746": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_747": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_748": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_749": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_750": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_751": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_752": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_753": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "ysmGlowav_opt_754": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "ysmGlowav_opt_755": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "ysmGlowav_opt_756": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_757": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_758": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_759": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_760": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_761": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_762": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_763": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_764": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_765": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_766": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_767": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_768": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_769": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_770": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_771": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_772": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_773": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_774": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_775": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_776": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_777": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_778": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_779": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_780": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_781": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_782": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_783": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_784": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_785": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_786": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_787": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_788": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_789": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_790": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_791": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_792": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_793": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_794": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_795": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_796": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_797": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_798": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_799": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_800": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_801": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_802": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_803": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_804": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_805": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_806": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_807": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_808": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_809": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_810": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_811": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_812": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_813": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_814": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_815": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_816": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_817": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "ysmGlowav_opt_818": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11) && !(v.roaming.apollyon_hide_halo ?? 0)) ? 1 : 0"
+        },
+        "av_opt_819": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_820": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_821": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_822": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_823": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_824": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
+        },
+        "av_opt_825": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_826": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_827": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_828": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_829": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_830": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_831": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_832": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_833": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_834": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_835": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_836": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_837": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_838": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_839": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_840": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_841": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_842": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_843": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_844": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_845": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_846": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_847": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_848": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_849": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_850": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_851": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_852": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_853": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_854": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_855": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_856": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_857": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_858": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_859": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_860": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_861": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_862": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_863": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_864": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_865": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_866": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_867": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_868": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_869": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_870": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_871": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_872": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_873": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_874": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_875": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_876": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_877": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_878": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_879": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_880": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_881": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_882": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_883": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_884": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_885": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_886": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_887": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_888": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_889": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_890": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_891": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_892": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_893": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_894": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_895": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_896": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_897": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_898": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_899": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_900": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_901": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_902": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_903": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_904": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12) && !(v.roaming.apollyon_hide_hat ?? 0)) ? 1 : 0"
+        },
+        "ysmGlowav_opt_905": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12) && !(v.roaming.apollyon_hide_halo ?? 0)) ? 1 : 0"
+        },
+        "av_opt_906": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_907": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_296_calf": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 1 || (v.roaming.apollyon_variant ?? 0) == 4 || (v.roaming.apollyon_variant ?? 0) == 5 || (v.roaming.apollyon_variant ?? 0) == 8 || (v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "av_opt_342_calf": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 2)) ? 1 : 0"
+        },
+        "av_opt_385_calf": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 3)) ? 1 : 0"
+        },
+        "av_opt_531_calf": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 6)) ? 1 : 0"
+        },
+        "av_opt_555_calf": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 7)) ? 1 : 0"
+        },
+        "av_opt_652_calf": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 9)) ? 1 : 0"
+        },
+        "av_opt_735_calf": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 10)) ? 1 : 0"
+        },
+        "av_opt_820_calf": {
+          "scale": "(((v.roaming.apollyon_variant ?? 0) == 11)) ? 1 : 0"
         }
       }
     },

@@ -41,6 +41,15 @@
         "name": "外观设置",
         "config_forms": [
           {
+            "type": "range",
+            "title": "模型缩放",
+            "description": "调整模型大小。",
+            "value": "v.roaming.apollyon_scale",
+            "step": 0.1,
+            "min": 0.1,
+            "max": 10
+          },
+          {
             "type": "checkbox",
             "title": "没礼帽形态",
             "description": "隐藏帽子。",
@@ -59,19 +68,35 @@
             "value": "v.roaming.apollyon_pig"
           },
           {
-            "type": "range",
-            "title": "模型缩放",
-            "description": "调整模型大小。",
-            "value": "v.roaming.apollyon_scale",
-            "step": 0.1,
-            "min": 0.1,
-            "max": 10
+            "type": "radio",
+            "title": "飞行方式",
+            "description": "选择飞行动画。",
+            "value": "v.roaming.apollyon_flight_mode",
+            "labels": {
+              "骑猪飞行": "v.roaming.apollyon_flight_mode=0; v.roaming.apollyon_ride_pig_flight=1;",
+              "飞天大C": "v.roaming.apollyon_flight_mode=1; v.roaming.apollyon_ride_pig_flight=0;"
+            }
           },
           {
-            "type": "checkbox",
-            "title": "骑猪飞行",
-            "description": "飞行时骑在亚小猪背上。",
-            "value": "v.roaming.apollyon_ride_pig_flight"
+            "type": "radio",
+            "title": "使徒外观",
+            "description": "选择使徒外观。",
+            "value": "v.roaming.apollyon_variant",
+            "labels": {
+              "亚小妹": "v.roaming.apollyon_variant=0; v.roaming.apollyon_pig=0;",
+              "憎恶本质": "v.roaming.apollyon_variant=1; v.roaming.apollyon_pig=0;",
+              "十恶不赦": "v.roaming.apollyon_variant=2; v.roaming.apollyon_pig=0;",
+              "冷酷寒冬": "v.roaming.apollyon_variant=3; v.roaming.apollyon_pig=0;",
+              "漆黑暗影": "v.roaming.apollyon_variant=4; v.roaming.apollyon_pig=0;",
+              "毒蝎之尾": "v.roaming.apollyon_variant=5; v.roaming.apollyon_pig=0;",
+              "荣耀之名": "v.roaming.apollyon_variant=6; v.roaming.apollyon_pig=0;",
+              "黑天使之影": "v.roaming.apollyon_variant=7; v.roaming.apollyon_pig=0;",
+              "天启饥荒": "v.roaming.apollyon_variant=8; v.roaming.apollyon_pig=0;",
+              "爆燃领主": "v.roaming.apollyon_variant=9; v.roaming.apollyon_pig=0;",
+              "不灭重生": "v.roaming.apollyon_variant=10; v.roaming.apollyon_pig=0;",
+              "可怖之物": "v.roaming.apollyon_variant=11; v.roaming.apollyon_pig=0;",
+              "女巫之王": "v.roaming.apollyon_variant=12; v.roaming.apollyon_pig=0;"
+            }
           }
         ]
       }
