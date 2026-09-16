@@ -6,10 +6,10 @@
       "animation_length": 2,
       "bones": {
         "LeftArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -304,6 +304,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -312,10 +315,10 @@
       "animation_length": 2,
       "bones": {
         "LeftArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -610,6 +613,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -692,7 +698,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -862,7 +868,7 @@
           ]
         },
         "LeftArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -1157,6 +1163,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -1239,7 +1248,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -1409,7 +1418,7 @@
           ]
         },
         "RightArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -1704,6 +1713,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -1952,7 +1964,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -2139,7 +2151,7 @@
           }
         },
         "LeftArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -2434,6 +2446,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -2682,7 +2697,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -2869,7 +2884,7 @@
           }
         },
         "RightArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -3164,6 +3179,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -3176,7 +3194,7 @@
             "-0.5*ysm.head_yaw",
             0
           ],
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": [
@@ -3212,7 +3230,7 @@
           ]
         },
         "LeftArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -3507,6 +3525,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -3519,7 +3540,7 @@
             "-0.5*ysm.head_yaw",
             0
           ],
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": [
@@ -3555,7 +3576,7 @@
           ]
         },
         "RightArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -3850,6 +3871,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -3874,7 +3898,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -3894,7 +3918,7 @@
             -15.93333,
             -15.34595
           ],
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -4222,6 +4246,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -4474,7 +4501,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -4607,7 +4634,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -4964,6 +4991,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -5219,7 +5249,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -5392,7 +5422,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -5749,6 +5779,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -5791,7 +5824,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -5858,7 +5891,7 @@
           }
         },
         "LeftArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -6153,6 +6186,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -6348,7 +6384,7 @@
               7.59
             ]
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -6858,7 +6894,7 @@
           }
         },
         "RightArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -7153,6 +7189,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -7326,7 +7365,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -7481,7 +7520,7 @@
           }
         },
         "LeftArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -7776,6 +7815,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       },
       "timeline": {
@@ -7973,7 +8015,7 @@
               -1.20699
             ]
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -8271,7 +8313,7 @@
           }
         },
         "RightArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -8566,6 +8608,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -8628,7 +8673,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -8685,7 +8730,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -9299,6 +9344,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -9361,7 +9409,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -9418,7 +9466,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -10023,6 +10071,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -10208,7 +10259,7 @@
               1.20699
             ]
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -10506,7 +10557,7 @@
           }
         },
         "LeftArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -10801,6 +10852,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -10868,7 +10922,7 @@
               0
             ]
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -10947,7 +11001,7 @@
           }
         },
         "LeftArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -11242,6 +11296,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -11296,7 +11353,7 @@
               29.49685
             ]
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -11609,7 +11666,7 @@
           }
         },
         "LeftArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -11904,6 +11961,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -11966,7 +12026,7 @@
               0
             ]
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -12045,7 +12105,7 @@
           }
         },
         "RightArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -12340,6 +12400,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -12394,7 +12457,7 @@
               -29.49685
             ]
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -12707,7 +12770,7 @@
           }
         },
         "RightArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -13002,6 +13065,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -13048,7 +13114,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -13089,7 +13155,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -13482,6 +13548,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -13528,7 +13597,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -13569,7 +13638,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -13972,6 +14041,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -14024,7 +14096,7 @@
               9.72731
             ]
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -14263,7 +14335,7 @@
           }
         },
         "LeftArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -14558,6 +14630,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -14643,7 +14718,7 @@
               195.59772
             ]
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -14970,7 +15045,7 @@
           ]
         },
         "RightArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -15265,6 +15340,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -15389,7 +15467,7 @@
               9.73
             ]
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -16401,7 +16479,7 @@
               0
             ]
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -16815,6 +16893,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -16877,7 +16958,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -16934,7 +17015,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -17321,6 +17402,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -17383,7 +17467,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -17440,7 +17524,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -17827,6 +17911,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -17882,7 +17969,7 @@
               -11.68886
             ]
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -17940,7 +18027,7 @@
               43.09853
             ]
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -18340,6 +18427,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -18395,7 +18485,7 @@
               -43.09853
             ]
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -18454,7 +18544,7 @@
               11.68886
             ]
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -18843,6 +18933,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -18855,7 +18948,7 @@
             4.42374,
             15.27871
           ],
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": [
@@ -18884,7 +18977,7 @@
           ]
         },
         "LeftArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -19179,6 +19272,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -19191,7 +19287,7 @@
             -4.42374,
             -15.27871
           ],
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": [
@@ -19213,7 +19309,7 @@
           ]
         },
         "RightArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -19508,6 +19604,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -19582,7 +19681,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -19734,7 +19833,7 @@
           }
         },
         "LeftArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -20029,6 +20128,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -20103,7 +20205,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -20255,7 +20357,7 @@
           }
         },
         "RightArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -20550,6 +20652,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -20624,7 +20729,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -20776,7 +20881,7 @@
           }
         },
         "LeftArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -21071,6 +21176,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -21145,7 +21253,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -21297,7 +21405,7 @@
           }
         },
         "RightArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -21592,6 +21700,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -21666,7 +21777,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -21818,7 +21929,7 @@
           }
         },
         "LeftArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -22113,6 +22224,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -22187,7 +22301,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -22339,7 +22453,7 @@
           }
         },
         "RightArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -22634,6 +22748,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -22764,7 +22881,7 @@
               0
             ]
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -22896,7 +23013,7 @@
           }
         },
         "LeftArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -23191,6 +23308,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -23321,7 +23441,7 @@
               0
             ]
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -23453,7 +23573,7 @@
           }
         },
         "RightArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -23748,6 +23868,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -23843,7 +23966,7 @@
               0
             ]
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -24073,7 +24196,7 @@
           }
         },
         "LeftArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -24368,6 +24491,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -24463,7 +24589,7 @@
               0
             ]
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -24693,7 +24819,7 @@
           }
         },
         "RightArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -24988,6 +25114,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -25029,7 +25158,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -25126,7 +25255,7 @@
           }
         },
         "LeftArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -25421,6 +25550,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -25498,7 +25630,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -25559,7 +25691,7 @@
           }
         },
         "RightArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -25854,6 +25986,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -25938,7 +26073,7 @@
               "0.1*math.clamp(3*q.vertical_speed,-180,0)"
             ]
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -26106,7 +26241,7 @@
           }
         },
         "LeftArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -26401,6 +26536,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -26531,7 +26669,7 @@
               0
             ]
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -26663,7 +26801,7 @@
           }
         },
         "RightArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -26958,6 +27096,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -27116,7 +27257,7 @@
               "0.1*math.clamp(3*q.vertical_speed,-180,0)"
             ]
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -27274,7 +27415,7 @@
           }
         },
         "LeftArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -27569,6 +27710,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       },
       "timeline": {
@@ -27618,7 +27762,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -27736,7 +27880,7 @@
           ]
         },
         "LeftArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -28031,6 +28175,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -28077,7 +28224,7 @@
               "lerp_mode": "catmullrom"
             }
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -28195,7 +28342,7 @@
           ]
         },
         "RightArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -28490,6 +28637,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -28853,7 +29003,7 @@
               0
             ]
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "RightForeArm": {
           "rotation": {
@@ -29392,7 +29542,7 @@
           }
         },
         "LeftArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -29687,6 +29837,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     },
@@ -30333,7 +30486,7 @@
               0
             ]
           },
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "LeftForeArm": {
           "rotation": {
@@ -30594,7 +30747,7 @@
           }
         },
         "RightArm": {
-          "scale": "(1 - (v.roaming.apollyon_pig ?? 0)) * math.clamp(v.roaming.apollyon_scale ?? 1, 0.1, 10)"
+          "scale": "(1 - (v.roaming.apollyon_pig ?? 0))"
         },
         "av_opt_86": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 0)) ? 1 : 0"
@@ -30889,6 +31042,9 @@
         },
         "av_opt_831": {
           "scale": "(((v.roaming.apollyon_variant ?? 0) == 12)) ? 1 : 0"
+        },
+        "Throne": {
+          "scale": 0
         }
       }
     }
